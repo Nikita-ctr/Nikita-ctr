@@ -10,11 +10,11 @@ Hi, i'm Nikita, a passionate self-taught full stack web developer  from Belarus.
 - 💼 any work? do research , [email](mailto:xmil.nik@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-
+<br/>
 
 📊 **this week i spent my time on:**
 
-<br/>
+
 <!--START_SECTION:waka-->
 
 ```text
