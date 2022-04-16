@@ -1,16 +1,30 @@
-### Hi there 👋
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
+Hi, i'm Nikita, a passionate self-taught full stack web developer  from Belarus. my passion for software lies with dreaming up ideas and making them come true with elegant code. i take great care in the experience, architecture, and code quality of the things I build.
 
-<!--
-**Nikita-ctr/Nikita-ctr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+  
+- 💼 any work? do research , [email](mailto:xmil.nik@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+Java         10 hrs 45 mins  ████████████████░░░░░░░░░   63.37 %
+TypeScript   4 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.62 %
+HTML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```
+
+<!--END_SECTION:waka-->
+
+starving self-taught student 🥺👉👈
+
+📈 my github stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Nikita-ctr&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
