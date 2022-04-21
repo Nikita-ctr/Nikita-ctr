@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
-Hi, i'm Nikita, a passionate self-taught full stack web developer  from Belarus. my passion for software lies with dreaming up ideas and making them come true with elegant code. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Nikita, a passionate self-taught Java web developer  from Belarus. my passion for software lies with dreaming up ideas and making them come true with elegant code. i take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
