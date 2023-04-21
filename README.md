@@ -5,7 +5,7 @@ Hello, I'm Nikita, a Java developer from Belarus. The purity of the code comes t
 <br>
 <br/>
 
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/cFlrCthixcb3B6hqwY/giphy.gif?raw=true"  width="480" height="480" />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/cFlrCthixcb3B6hqwY/giphy.gif?raw=true"  width="380" height="380" />
   
 - 💼 any work? never call me , [email](mailto:xmil.nik@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
