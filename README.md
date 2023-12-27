@@ -7,11 +7,12 @@ Hello, I'm Nikita, a Java developer from Belarus. The purity of the code comes t
 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/cFlrCthixcb3B6hqwY/giphy.gif?raw=true"  width="380" height="380" />
   
-- 💼 any work? never call me , [email](mailto:xmil.nik@gmail.com) :)
+- 💼 any work? [email](mailto:xmil.nik@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
-starving self-taught student 🥺👉👈
+starving self-taught student 🥺👉👈 
+sometimes wealthy 
 
 <br/>
 
