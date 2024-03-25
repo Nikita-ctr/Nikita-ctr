@@ -6,7 +6,7 @@ Hello, I'm Nikita, a Java developer from Belarus. The purity of the code comes t
 <br/>
 
 
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd6M3N5ZncyYWM1ZmMxcThtMm1xcnZvaTFsYXdkamtneWxjN3ZicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J8YpfDX0kvPQNSVGHY/giphy.gif"  width="380" height="380" />
+  <img align="center" alt="GIF" src="https://tenor.com/ru/view/girls-frontline-coffin-dance-ak12-an94-ak15-gif-17167411.gif"  width="380" height="380" />
   
  💬 ask me about anything, i am happy to help;
 
