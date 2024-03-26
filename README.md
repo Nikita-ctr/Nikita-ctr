@@ -5,8 +5,6 @@ Hello, I'm Nikita, a Java developer from Belarus. The purity of the code comes t
 <br>
 <br/>
 
-
-  <img align="center" alt="GIF" src="https://tenor.com/ru/view/girls-frontline-coffin-dance-ak12-an94-ak15-gif-17167411.gif"  width="380" height="380" />
   
  💬 ask me about anything, i am happy to help;
 
